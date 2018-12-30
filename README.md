@@ -3,7 +3,7 @@ Creates centered fft and ifft returned as complex values. Requires Piotr Wendyki
 
 # Installation
 
-Place in './Fiji.app/jars/Lib' folder. '/Lib' folder may need to be created. Use import fft in python script.
+Place in './Fiji.app/jars/Lib' folder. '/Lib' folder may need to be created. Use 'import fft' in python script.
 
 # Use
 Four arguments needed: two images 'imp' and 'imp2' for real and imaginary inputs to fft as well as width and height.
