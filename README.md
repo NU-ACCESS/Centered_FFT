@@ -8,7 +8,8 @@ Place in './Fiji.app/jars/Lib' folder. '/Lib' folder may need to be created. Use
 # Use
 Four arguments needed: two images 'imp' and 'imp2' for real and imaginary inputs to fft as well as width and height.
 
-fft.fft(imp,imp2,width,height)
+fft.fft(imp,imp2,width,height), 
+
 fft.ifft(imp,imp2,width,height)
 
 
